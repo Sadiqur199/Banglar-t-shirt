@@ -3,9 +3,9 @@
     "_id": "623853b2614ad5aba311fdd1",
     "index": 0,
     "price": 1014,
-    "picture": "https://i.pinimg.com/originals/9f/3d/13/9f3d13912d3cf78e4c87975bcebc1fee.jpg",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOw-Zj7Yo-4ES419uCNqJC2WGeu52kRFclQ&usqp=CAU",
     "name": "Just Chill",
-    "gender": "Just Chill"
+    "gender": "male"
   },
   {
     "_id": "623853b2578e9e6ad1ae0dd5",
@@ -13,7 +13,7 @@
     "picture": "https://render.fineartamerica.com/images/rendered/default/t-shirt/23/30/images/artworkimages/medium/1/coffee-coding-syntax-aadil-farooq-transparent.png?targetx=0&targety=0&imagewidth=430&imageheight=516&modelwidth=430&modelheight=575",
     "name": "Keep Coding",
     "price": 2700,
-    "gender": "Keep Coding"
+    "gender": "male"
   },
   {
     "_id": "623853b21fb149d2ee7b76c7",
@@ -21,7 +21,7 @@
     "picture": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dCUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "name": "Black",
     "price": 2400,
-    "gender": ""
+    "gender": "male"
   },
   {
     "_id": "623853b2e91c8de578c9245e",
@@ -51,23 +51,23 @@
     "_id": "623853b2736f19fd4eb8d44a",
     "index": 6,
     "price": 4100,
-    "picture": "https://i.pinimg.com/236x/af/96/95/af9695e0116a1d859336024e6cdcea10.jpg",
-    "name": "Black Skull",
-    "gender": "female"
+    "picture": "https://au.louisvuitton.com/images/is/image/lv/1/PP_VP_M/louis-vuitton--HNY26WNPG650_PM2_Front%20view.jpg?wid=750&hei=870",
+    "name": "light Skull",
+    "gender": ",male"
   },
   {
     "_id": "623853b2736f19fd4eb8d44a",
     "index": 7,
     "price": 4400,
-    "picture": "https://i.pinimg.com/236x/af/96/95/af9695e0116a1d859336024e6cdcea10.jpg",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EDpFVPwlJpKs5UB6_Dl-AmoVgGXRSy9pmA&usqp=CAU",
     "name": "Black Skull",
-    "gender": "female"
+    "gender": "male"
   },
   {
     "_id": "623853b27f1859fd4eb8d44a",
     "index": 9,
     "price": 2300,
-    "picture": "https://i.pinimg.com/236x/af/96/95/af9695e0116a1d859336024e6cdcea10.jpg",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsnrVCZik0j7VU6b1Wb6a_5BUzaYpCEsZ2nA&usqp=CAU",
     "name": "Black Skull",
     "gender": "female"
   },
@@ -75,24 +75,24 @@
     "_id": "623853b2736f19ebeew8d44a",
     "index": 10,
     "price": 2500,
-    "picture": "https://i.pinimg.com/236x/af/96/95/af9695e0116a1d859336024e6cdcea10.jpg",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx3bM9-UQ_4j2L2G1021clZ-a6FnCVMkB96g&usqp=CAU",
     "name": "Black Skull",
-    "gender": "female"
+    "gender": "male"
   },
   {
     "_id": "623853b2736f19fdb8deqa44a",
     "index": 11,
     "price": 9000,
-    "picture": "https://i.pinimg.com/236x/af/96/95/af9695e0116a1d859336024e6cdcea10.jpg",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBU3ldQpjzjhs8kwAZuUxKr1HylblAf2Vrg&usqp=CAU",
     "name": "Black Skull",
-    "gender": "female"
+    "gender": "male"
   },
   {
     "_id": "623853b2736f19fawd4eb44a",
     "index": 12,
     "price": 3800,
-    "picture": "https://i.pinimg.com/236x/af/96/95/af9695e0116a1d859336024e6cdcea10.jpg",
+    "picture": "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/y/t/k/xxs-t653-cgblwh-eyebogler-original-imaghyjv7kppbqxb.jpeg?q=70",
     "name": "Black Skull",
-    "gender": "female"
+    "gender": "male"
   }
 ]
